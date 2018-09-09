@@ -83,7 +83,7 @@ footer {
   </nav>
   
   <article>
-    <h1>ทำไมต้อง Run นะ</h1>
+    <h1>ทำไมต้อง Run นะนะ</h1>
     <img src="img/codie_small.png" width="75" height="120">
     <p>กขคง กขคงกขคงกขคงกขคงกขคงกขคงกขคงกขคงกขคง  กขคงกขคงกขคงกขคง  กขคงกขคงกขคงกขคง   </p>
     <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
